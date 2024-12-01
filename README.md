@@ -1,4 +1,7 @@
-# Tood_ app in django
+# Tood_Project in django
+
+![image](https://github.com/user-attachments/assets/1d2ea37c-8ab9-4f17-b280-5ddeddd71156)
+
 
 
 #. Setup
